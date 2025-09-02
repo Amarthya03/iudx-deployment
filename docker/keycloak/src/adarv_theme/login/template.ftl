@@ -19,7 +19,7 @@
             <meta name="${meta?split('==')[0]}" content="${meta?split('==')[1]}"/>
         </#list>
     </#if>
-    <title>TGDeX | Telangana Data ExChange</title>
+    <title>ADARV | Advanced Data Analytics and Research Ventures</title>
     <link rel="icon" href="${url.resourcesPath}/img/fav_icon.png" />
     <#if properties.stylesCommon?has_content>
         <#list properties.stylesCommon?split(' ') as style>
